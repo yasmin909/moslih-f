@@ -1,0 +1,26 @@
+{
+  "name": "مسابقة مُصلِح",
+  "short_name": "مسابقة مُصلِح",
+  "description": "نظام متكامل لإدارة البرامج التعليمية وتتبع تقدم الطلاب",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2B1810",
+  "theme_color": "#2B1810",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

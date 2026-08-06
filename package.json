@@ -1,5 +1,5 @@
 {
-  "name": "@workspace/mislah",
+ "name": "mislah",
   "version": "0.0.0",
   "private": true,
   "type": "module",
